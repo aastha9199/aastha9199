@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/aastha9199/aastha9199/assets/109139737/700dbb50-7ea7-475f-9a1b-a1f70405f3c2" height="900"  width="700" />
+  <img height="150" src="https://github.com/aastha9199/aastha9199/assets/109139737/700dbb50-7ea7-475f-9a1b-a1f70405f3c2" height="1500"  width="400" />
 </div>
 
 ###
@@ -10,9 +10,6 @@
   </a>
   <a href="aasthaagarwal2121@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.aastha21/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
