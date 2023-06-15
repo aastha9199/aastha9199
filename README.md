@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">I  am a dedicated, organized and methodical individual. I am reliable and dependable and often seek new responsibilities within a wide range of areas. I have an active and dynamic approach to work and getting<br>things done with determination and decisiveness.</h3>
+<h3 align="center">I  am a dedicated, organized and methodical individual. I am reliable and dependable and often seek new responsibilities within a wide range of areas. I have an active and dynamic approach to work and getting<br>things done with determination and decisiveness.</h3>
 
 ###
 
